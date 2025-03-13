@@ -5,7 +5,7 @@
 - 📫 You can contact me at kristiangriffith.bb@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually starting to become a huge fan of BJJ, random I know 😅
-
+<!-- - 🦾 You can track my Hack The Box progress at https://www.hackthebox.com/badge/image/<your_id>
 <!---
 KristianGriffith/KristianGriffith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
